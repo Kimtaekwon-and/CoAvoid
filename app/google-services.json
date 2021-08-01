@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90036530560",
+    "project_id": "co-avoid19-77829",
+    "storage_bucket": "co-avoid19-77829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90036530560:android:6a5f10a7adbeb82ca56565",
+        "android_client_info": {
+          "package_name": "com.taekwondev.coavoid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90036530560-suqp7bff4e7mv6nui3kou57q1mknb2p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRiKTl9_hztGTMqFwAqFcuzjRgGm1Ggo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90036530560-suqp7bff4e7mv6nui3kou57q1mknb2p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
